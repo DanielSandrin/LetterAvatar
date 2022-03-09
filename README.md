@@ -18,4 +18,5 @@ Execute o seguinte comando no seu terminal git clone terminal: https://github.co
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -React
+
 -Styled-Componets
